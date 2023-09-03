@@ -1,0 +1,12 @@
+name = "sprockets"
+version = "0.1.0"
+license = "BSD"
+author = "hgarra"
+maintainer = "arttu.rasanen@tuni.fi"
+copyright = "Copyright 2023, hgarra"
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+[install]
+library = false
